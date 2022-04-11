@@ -1,0 +1,13 @@
+body {
+    color:whitesmoke;
+    background-color:black;
+}
+
+div {
+    margin-top: 20px;
+    padding: 5px;
+    border: 1px solid whitesmoke;
+    border-radius: 5px;
+    width: 30%;
+    text-align: center;
+}
